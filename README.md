@@ -13,7 +13,7 @@
 <h3 align="center">Code Projects Preview</h3>
 
   <p align="center">
-    This is a repository made for code reviews by an organization, HiddenDevs.
+    This is a repository made for code reviews by organizations.
   </p>
 </div>
 
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The projects have been made originally for a portfolio on my [website]([https://pages.github.com/](https://sites.google.com/view/mekhanikz)) to showcase my work. I have decided to distribute it over to GitHub as it seems HiddenDevs need an application in order to let you create any posts nowadays.
+The projects have been made originally for a portfolio on my [website]([https://pages.github.com/](https://sites.google.com/view/mekhanikz)) to showcase my work. I have decided to distribute it over to GitHub.
 For the reviewers of my application and code, I recommend checking out my website for visual previews of the code working in practice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
